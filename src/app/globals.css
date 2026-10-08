@@ -1,0 +1,6 @@
+﻿@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Segoe UI", Arial, Helvetica, sans-serif;
+  --font-mono: Consolas, "Courier New", monospace;
+}
